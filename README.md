@@ -4,3 +4,7 @@ Rodrigo Becerril 2
 Veronica de la Fuente
 Alhoceima Ahamjik
 Alvaro Esteban
+
+Alin Cristea
+Arasanz
+Diego Castillo Gómez
