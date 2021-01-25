@@ -5,3 +5,4 @@ Veronica de la Fuente
 Alhoceima Ahamjik
 Alin Cristea
 Arasanz
+Diego Castillo Gómez
