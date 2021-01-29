@@ -14,4 +14,5 @@ Dani Marcos Muñoz con usuario Dani
 Paula Olivar Mur
 Rogelio Gimeno Ferrer
 Diego Rodríguez Garcés
+Ivan Delgado Ropero
 Víctor Gutiérrez Aparicio
